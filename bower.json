@@ -1,0 +1,14 @@
+{
+  "name": "whiteswords",
+  "description": "A single page web application (AngularJS)",
+  "main": "app/app.js",
+  "authors": [
+    "Thomas Janssen and Thijs Fransen"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.9"
+  }
+}
