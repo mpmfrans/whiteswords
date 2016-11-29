@@ -1,0 +1,19 @@
+{
+  "name": "whiteswords",
+  "version": "1.0.0",
+  "description": "A single page web application (AngularJS)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpmfrans/whiteswords.git"
+  },
+  "author": "Thomas Janssen and Thijs Fransen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpmfrans/whiteswords/issues"
+  },
+  "homepage": "https://github.com/mpmfrans/whiteswords#readme"
+}
